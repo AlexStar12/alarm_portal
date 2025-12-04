@@ -1,0 +1,10 @@
+{
+  "domain": "alarm_portal",
+  "name": "Alarm Portal Notifier",
+  "version": "0.1.0",
+  "documentation": "https://github.com/TON_USER/alarm_portal",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@TON_USER"],
+  "iot_class": "cloud_push"
+}
